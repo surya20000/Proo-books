@@ -1,0 +1,11 @@
+.book-i{
+    display: flex;
+    justify-content: space-between;
+}
+
+.description{
+    margin-left: 4vh;
+}
+img{
+    height: 25vh;
+}
